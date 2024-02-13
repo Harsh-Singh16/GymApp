@@ -44,7 +44,7 @@ function NavBar() {
 
         </Stack>
       </Stack>
-      <Typography ml={"25px"} fontWeight="bold" fontSize="15px" color="red">NICK's GYM</Typography>
+      <Typography ml={"25px"} fontWeight="bold" fontSize="15px" color="red">HARSH's GYM</Typography>
     </>
   )
 }
